@@ -1,0 +1,9 @@
+# Final dependencies for the high-accuracy hybrid AI model
+PyMuPDF
+lightgbm
+scikit-learn
+numpy
+pandas
+torch --index-url https://download.pytorch.org/whl/cpu
+transformers
+accelerate
